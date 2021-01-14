@@ -1,1 +1,2 @@
 this is a test to learn git process
+Another line of text to commit and add
